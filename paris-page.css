@@ -1,0 +1,83 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    background-color: white;
+   
+}
+.container{
+    width: 660px;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.heading1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    display: inline-block;
+    margin: 4px 20px;
+}
+.back-text{
+    font-size: 32px;
+    display: inline-block;
+    color: slategray;
+   
+}
+.fa-arrow-circle-left{
+    font-size: 36px;
+    font-weight: 200;
+    color:red;
+}
+.hr1-line{
+    color: gray;
+    display: inline-block;
+    width: 160px;
+}
+
+.back-page{
+    margin-left: 280px;
+    margin-top: 35px;
+}
+.paris-trip{
+    font-size: 32px;
+    font-weight: 100;
+    
+    color: red; 
+}
+.list{
+    border: 1px solid red;
+    border-radius: 8%;
+    display:inline-block;
+    margin-left: 150px;
+    margin-top: 32px;
+    font-size: 32px;
+    font-weight: 100;
+    box-shadow: 2px 4px 10px rgb(150, 149, 149);
+    text-align: center;
+    height: 280px;
+    width: 300px;
+}
+.p-class{
+    font-size:20px ;
+    font-weight:400 ;
+    color: black
+}
+.task-complete{
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-decoration-line: line-through;
+    color:red;
+}
+.add-list-icon{
+    margin-left: 265px;
+     margin-top: 50px;
+    display: inline-block;
+    color: red;
+    font-weight: 200;
+}
+.under-line{
+    margin-left:93px;
+    margin-top: -16px;
+    background-color: black ;
+}
