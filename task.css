@@ -1,0 +1,68 @@
+.body{
+font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    width: 750px;
+    margin-left: 20%;
+    margin-top: 7%;
+}
+.head1{
+    font-family: initial;
+    font-size: 55px;
+    font-weight:600;
+}
+.head2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+    font-weight: 30;
+    color: gray;
+}
+.heading{
+    display: inline-block;
+}
+.list-text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: 200;
+    display: inline-block;
+
+}
+.list-icon{
+    margin-left: 283px;
+    display: inline-block;
+    font-weight: 100;
+    color: red;
+}
+.todolist-container{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.list-container{
+    border: 1.5px solid red;;
+    border-radius: 15px;
+    width: 198px;
+    height: 325px;
+}
+.text-1{
+    font-family: sans-serif;
+    color: red;
+    font-size: 25px;
+    font-weight: 150;
+    text-align: center;
+}
+.hr-line{
+    margin-top: 0%;
+    margin-left: 35px;
+}
+.complete-task{
+    font-size:25px;
+    font-weight:400;
+    color: red;
+    text-align: end;
+    margin: 35px 10px 5px 5px;
+}
+.pending-task{
+    font-size: 20px;
+    margin-top: 20px;
+}
