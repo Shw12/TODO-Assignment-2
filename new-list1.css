@@ -1,0 +1,115 @@
+body{
+    font-family:'Times New Roman', Times, serif; 
+}
+.container{
+    margin-left: 23%;
+    margin-top: 7%;
+    width: 745px;
+    filter:blur(6px);
+   
+}
+.head1{
+    font-family: 'Encode Sans SC',sans-serif;
+    font-weight: 600;
+    font-size: 55px;
+}
+.head2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 55px;
+    color: gray;
+}
+.heading{
+    display: inline-block;
+}
+.list-icon{
+    font-weight: lighter;
+    margin-left: 283px;
+    display: inline-block;
+    color: red;
+}
+.list-text{
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+}
+.todolist-container{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.list-container{
+    width: 200px;
+    height: 325px;
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px lightgrey;
+}
+.text-1{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    color: red;
+    margin-bottom: 10px;
+    
+}
+.hr-line{
+   margin-left: 30px;
+   margin-top: 0px;
+}
+.complete-task{
+    color: red;
+   text-align: end;
+   margin: 35px 10px 5px 5px;
+   font-size: 22px;
+   font-weight: 400;
+   text-decoration-color:red;
+}
+.pending-task{
+   
+    margin-top: 20px;
+    font-size: 20px;
+}
+input.pending-task-checkbox{
+    width: 17px;
+    height: 17px;
+    margin-left: 10px;
+}
+.add-container{
+    width: 450px;
+    height: 250px;
+    border: 1.5px solid red;
+    border-radius: 10px;
+    filter: blur(0);
+    background-color: white;
+    position: absolute;
+    left: 441px;
+    bottom: 125px;
+    margin-bottom: 30px;
+}
+.new-list{
+    color:red;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 23px;
+    font-weight:400;
+}
+.btclass{
+    height: 44px;
+    width: 110px;
+    color: white;
+    background-color:red ;
+    margin-left:170px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
+.input{
+    border: 1.5px solid red;
+    margin-left: 75px;
+    border-radius:8%;
+    height: 30px;
+    width: 300px;
+}
